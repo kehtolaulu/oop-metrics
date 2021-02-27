@@ -1,0 +1,15 @@
+{
+  "name": "eslint-plugin-oop-metrics",
+  "version": "1.0.0",
+  "description": "OOP ESlint plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin"
+  ],
+  "author": "Emilia Garipova",
+  "license": "MIT"
+}
